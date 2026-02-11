@@ -10,7 +10,7 @@
 
 Implementation of **Anatomy-aware Graph R-CNN (AGR-CNN)** for multi-view mammogram fusion in breast cancer classification. Building on "Act Like a Radiologist" by Liu et al., this work extends graph convolution beyond mass segmentation to **microcalcification detection** and incorporates temporal reasoning for longitudinal breast cancer screening.
 
-**Authors**: Nasif Zaman, Md Abu Sayed, Alireza Tavakkoli, George Bebis  
+**Authors**: Nasif Zaman, Md Abu Sayed
 **Institution**: University of Nevada, Reno
 
 ## 🎯 Key Features
